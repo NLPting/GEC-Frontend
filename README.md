@@ -1,4 +1,4 @@
-# GEC-Frontend
+# GEC-system
 
 ### Start ###
 * python manage.py runserver
